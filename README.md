@@ -12,14 +12,12 @@ MATLAB implementation of a 3D direct positioning algorithm featuring dynamic gri
 
 ## Experimental Indoor Scenarios
 ### Breakroom Environment (8m × 6.5m × 3m)
-![Breakroom Scenario](docs/Snapshot_of_Breakroom.png)
-
-<img src="docs/Snapshot_of_Breakroom.png" alt="Breakroom Scenario" width="450">
+<img src="docs/Snapshot_of_Breakroom.png" alt="Breakroom Scenario" width="400">
 - **Anchor Configuration**: 5 BLE anchors
 - **Obstacles**: cabinets, glass, walls
 
 ### Anterroom Environment (10m × 4m × 3m)
-![Anterroom Scenario](docs/Snapshot_of_Anterroom.png)
+<img src="docs/Snapshot_of_Anterroom" alt="Anterroom Scenario" width="400">
 - **Anchor Configuration**: 4 BLE anchors
 
 ## Getting Started
