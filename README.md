@@ -12,13 +12,13 @@ MATLAB implementation of a 3D direct positioning algorithm featuring dynamic gri
 
 ## Experimental Indoor Scenarios
 ### Breakroom Environment (8m × 6.5m × 3m)
-<img src="docs/Snapshot_of_Breakroom.png" alt="Breakroom Scenario" width="400">
-- **Anchor Configuration**: 5 BLE anchors
-- **Obstacles**: cabinets, glass, walls
+<img src="docs/Snapshot_of_Breakroom.png" alt="Breakroom Scenario" width="300">
+- Anchor Configuration: 5 BLE anchors
+- Obstacles: cabinets, glass, walls
 
 ### Anterroom Environment (10m × 4m × 3m)
-<img src="docs/Snapshot_of_Anterroom" alt="Anterroom Scenario" width="400">
-- **Anchor Configuration**: 4 BLE anchors
+<img src="docs/Snapshot_of_Anterroom.png" alt="Anterroom Scenario" width="300">
+- Anchor Configuration: 4 BLE anchors
 
 ## Getting Started
 ### Prerequisites
@@ -27,14 +27,7 @@ MATLAB implementation of a 3D direct positioning algorithm featuring dynamic gri
 ### Basic Example
 
 ## Citation (To be updated)
-```bibtex
-@inproceedings{author2024indoor,
-  title={An Enhanced 3-D Direct Positioning Method with Adaptive Grid Refinement in Indoor Environments},
-  author={Author, J. and Coauthors},
-  booktitle={Proceedings of XXX},
-  year={2024}
-}
-```
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
